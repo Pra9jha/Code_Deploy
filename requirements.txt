@@ -15,7 +15,7 @@ css==0.1
 css-class-names==0.0.1
 css-classes==1.1
 css-html-js-minify==2.5.5
-Django==2.1.3
+Django==2.2.13
 django-crispy-forms==1.7.2
 docker==3.5.1
 docker-compose==1.21.2
